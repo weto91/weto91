@@ -17,6 +17,7 @@
 <p align="left">
 <a href="https://twitter.com/weto91" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="weto91" height="30" width="40" /></a>
 <a href="https://instagram.com/weto1991" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="weto1991" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/users/980393" target="blank"><img align="center" src="https://raw.githubusercontent.com/weto91/weto91/1100ab05f7e091f8dbd915b72464c30c35fa9c60/hack-the-box.svg" alt="980393" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
